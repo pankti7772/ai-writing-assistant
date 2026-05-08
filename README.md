@@ -69,4 +69,4 @@ Upon first load, the app will download the Llama-3 weights (approx. 4GB) to your
 
 **Developed by Pankti Singh** *Computer Science & Engineering Student | Data Science Intern*
 
---
+---

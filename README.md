@@ -29,16 +29,18 @@ A high-performance React application that runs a Large Language Model (Llama-3) 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-writing-assistant.git
+git clone https://github.com/pankti7772/ai-writing-assistant.git
 cd ai-writing-assistant
 
 ```
+
 
 2. **Install dependencies:**
 ```bash
 npm install
 
 ```
+
 
 3. **Run the development server:**
 ```bash
@@ -65,17 +67,6 @@ Upon first load, the app will download the Llama-3 weights (approx. 4GB) to your
 
 ---
 
-**Developed by [Pankti Singh]** *Computer Science & Engineering Student | Data Science Intern*
+**Developed by Pankti Singh** *Computer Science & Engineering Student | Data Science Intern*
 
----
-
-### Why this works:
-
-1. **Removes Junk:** It gets rid of the ESLint and Vite configuration technicalities that recruiters don't need to see.
-2. **Focuses on "Why":** It highlights **Privacy** and **WebGPU**, which are trending topics in AI right now.
-3. **Professional Formatting:** Uses clear headings, code blocks, and lists to make it scannable.
-
-**One final tip:** Once you've saved this to your `README.md`, don't forget to:
-`git add README.md`
-`git commit -m "Update README with professional documentation"`
-`git push origin main`
+--
